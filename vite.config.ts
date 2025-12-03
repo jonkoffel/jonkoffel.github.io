@@ -17,5 +17,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/erin-site/",
+  base: "/jonkoffel.github.io/",
 }));
